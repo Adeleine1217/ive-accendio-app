@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ive-rebel-heart.vercel.app/sitemap.xml
