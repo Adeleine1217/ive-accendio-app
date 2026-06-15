@@ -1,31 +1,31 @@
 <script setup>
-const siteUrl = 'https://ive-rebel-heart.vercel.app'
-const ogImage = `${siteUrl}/og-rebel-heart.png`
+const siteUrl = 'https://ive-accendio.vercel.app'
+const ogImage = `${siteUrl}/og-accendio.png`
 const description =
-  "A cultural review of IVE's REBEL HEART — exploring confidence, girlhood, and the emotional architecture of a defining K-pop moment."
+  "A cultural review of IVE's ACCENDIO — exploring enchantment, illusion, and the cinematic architecture of a dark-fantasy K-pop moment."
 
 useSeoMeta({
   // Core
-  title: 'IVE — REBEL HEART Review | Adeleine Wang',
+  title: 'IVE — ACCENDIO Review | Adeleine Wang',
   description,
 
   // Open Graph
-  ogTitle: 'IVE — REBEL HEART Review | Adeleine Wang',
+  ogTitle: 'IVE — ACCENDIO Review | Adeleine Wang',
   ogDescription: description,
   ogType: 'website',
   ogUrl: `${siteUrl}/`,
-  ogSiteName: 'IVE REBEL HEART Review',
+  ogSiteName: 'IVE ACCENDIO Review',
   ogImage,
   ogImageWidth: 1200,
   ogImageHeight: 630,
-  ogImageAlt: 'IVE REBEL HEART — a cultural review by Adeleine Wang',
+  ogImageAlt: 'IVE ACCENDIO — a cultural review by Adeleine Wang',
 
   // Twitter
   twitterCard: 'summary_large_image',
-  twitterTitle: 'IVE — REBEL HEART Review | Adeleine Wang',
+  twitterTitle: 'IVE — ACCENDIO Review | Adeleine Wang',
   twitterDescription: description,
   twitterImage: ogImage,
-  twitterImageAlt: 'IVE REBEL HEART — a cultural review by Adeleine Wang',
+  twitterImageAlt: 'IVE ACCENDIO — a cultural review by Adeleine Wang',
 })
 
 useHead({
@@ -56,9 +56,9 @@ useHead({
 .site {
   min-height: 100vh;
   background:
-    radial-gradient(circle at top left, rgba(255, 255, 255, 0.9), transparent 32%),
-    linear-gradient(135deg, #f7efe8 0%, #efe0d6 48%, #d8bfae 100%);
-  color: #241915;
+    radial-gradient(circle at top left, rgba(255, 235, 205, 0.12), transparent 22%),
+    linear-gradient(135deg, #12070f 0%, #291722 42%, #090407 100%);
+  color: #f1e6d8;
   font-family: Georgia, 'Times New Roman', serif;
 }
 </style>

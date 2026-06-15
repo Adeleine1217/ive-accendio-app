@@ -1,13 +1,13 @@
 <template>
   <section class="hero">
-    <p class="eyebrow">K-pop Review / Nuxt Practice</p>
+    <p class="eyebrow">Editorial / Nuxt Practice</p>
     <h1>
       IVE
-      <span>REBEL HEART</span>
+      <span>ACCENDIO</span>
     </h1>
     <p class="subtitle">
-      My first Nuxt page, written for a song that makes confidence feel
-      elegant, emotional, and luminous.
+      An editorial review of IVE's otherworldly ACCENDIO — a cinematic spell
+      of mirror light, beauty, and quiet control.
     </p>
     <div class="meta">
       <p>Written by Adeleine Wang</p>
@@ -19,7 +19,7 @@
 <style scoped>
 .eyebrow {
   margin: 0 0 20px;
-  color: #9a6d51;
+  color: #c9b18d;
   font-size: 12px;
   letter-spacing: 0.22em;
   text-transform: uppercase;
@@ -35,7 +35,7 @@
 
 h1 {
   margin: 0;
-  color: #1f1715;
+  color: #f2e6d2;
   font-size: clamp(64px, 13vw, 164px);
   line-height: 0.85;
   letter-spacing: -0.08em;
@@ -43,14 +43,14 @@ h1 {
 
 h1 span {
   display: block;
-  color: #8f5238;
+  color: #c39a68;
   font-style: italic;
 }
 
 .subtitle {
   max-width: 760px;
   margin: 40px 0 0;
-  color: #5d453c;
+  color: #d3c0af;
   font-size: clamp(20px, 3vw, 30px);
   line-height: 1.55;
 }
@@ -60,7 +60,7 @@ h1 span {
   gap: 16px;
   flex-wrap: wrap;
   margin-top: 40px;
-  color: #7c5c4d;
+  color: #b9a08a;
   font-size: 14px;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -69,8 +69,8 @@ h1 span {
 .meta p {
   margin: 0;
   padding: 10px 16px;
-  border: 1px solid rgba(124, 92, 77, 0.28);
+  border: 1px solid rgba(201, 177, 141, 0.28);
   border-radius: 999px;
-  background: rgba(255, 255, 255, 0.28);
+  background: rgba(49, 30, 35, 0.32);
 }
 </style>

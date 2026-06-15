@@ -1,6 +1,6 @@
 <template>
   <footer class="site-footer">
-    <p>IVE — REBEL HEART</p>
+    <p>IVE — ACCENDIO</p>
     <p>A Nuxt practice page by Adeleine Wang · 2024</p>
   </footer>
 </template>

@@ -4,28 +4,28 @@
       <p class="eyebrow">The Song</p>
       <div class="intro-layout">
         <div class="intro-label">
-          <h2 class="intro-title">REBEL<br>HEART</h2>
+          <h2 class="intro-title">ACCENDIO</h2>
           <p class="intro-release">IVE · 2024</p>
           <div class="intro-rule" />
         </div>
         <div class="intro-text">
           <p>
-            Released in 2024 as part of IVE's <em>IVE SWITCH</em> era,
-            "REBEL HEART" stands apart from the group's signature polish.
-            It is not a perfect pop confection — and that, precisely, is its
-            power.
+            ACCENDIO opens like a ritual: slow, shimmering synths that feel
+            less like machinery and more like candlelight reflected in glass.
+            The song is deliberately cinematic, a dark fantasy magnetised by
+            image and intent.
           </p>
           <p>
-            The song opens with a restrained tension and builds into something
-            deeply expressive: a layered pop record that balances vulnerability
-            with defiance. It does not shout its rebellion. Instead, it
-            whispers it — which is far more arresting.
+            Its power is in the way it makes control feel luxurious. Every
+            breath, every vocal shadow, is arranged as if it were part of a
+            spell — not to conquer the listener, but to invite them into a
+            space of elegant unease.
           </p>
           <p>
-            What makes "REBEL HEART" worth writing about is the emotional
-            intelligence behind it. IVE has always been associated with a cool,
-            aspirational image. Here, they let something softer and stranger
-            through — and the result feels like a defining moment.
+            IVE has always been meticulous with their image. Here, that
+            meticulousness becomes a kind of magic. ACCENDIO is not just a
+            song. It is a mirror chamber of beauty, illusion, and the fierce
+            stillness that happens when looking at yourself in a new light.
           </p>
         </div>
       </div>
@@ -36,7 +36,7 @@
 <style scoped>
 .eyebrow {
   margin: 0 0 20px;
-  color: #9a6d51;
+  color: #d8b88d;
   font-size: 12px;
   letter-spacing: 0.22em;
   text-transform: uppercase;
@@ -49,8 +49,8 @@
 
 .song-intro {
   padding: 88px clamp(24px, 6vw, 80px) 104px;
-  background: rgba(255, 250, 246, 0.6);
-  border-top: 1px solid rgba(124, 92, 77, 0.14);
+  background: rgba(22, 14, 20, 0.88);
+  border-top: 1px solid rgba(255, 209, 159, 0.12);
 }
 
 .intro-layout {
@@ -63,7 +63,7 @@
 
 .intro-title {
   margin: 0;
-  color: #1f1715;
+  color: #f2e5d2;
   font-size: clamp(36px, 5vw, 60px);
   line-height: 0.9;
   letter-spacing: -0.06em;
@@ -71,7 +71,7 @@
 
 .intro-release {
   margin: 18px 0 0;
-  color: #a06f52;
+  color: #bb9b70;
   font-size: 13px;
   letter-spacing: 0.18em;
   text-transform: uppercase;
@@ -80,13 +80,13 @@
 .intro-rule {
   width: 48px;
   height: 2px;
-  background: #8f5238;
+  background: #c39a68;
   margin-top: 28px;
 }
 
 .intro-text p {
   margin: 0 0 22px;
-  color: #4a3028;
+  color: #d8c8b8;
   font-size: 18px;
   line-height: 1.85;
 }

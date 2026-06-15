@@ -50,11 +50,10 @@ const members = [
     <div class="inner">
       <div class="section-intro">
         <p class="eyebrow">DIVE Notes</p>
-        <h2>Six ways to hold a rebel heart</h2>
+        <h2>Six reflections of an incandescent spell</h2>
         <p>
-          A small member guide written through my own fan lens — not as a
-          formal profile, but as a love letter to the six different colours
-          that make IVE feel complete.
+          A small member guide written through my own fan lens — each voice
+          contributes to ACCENDIO's darkly luminous atmosphere and ritual tone.
         </p>
       </div>
       <div class="members-grid">

@@ -4,54 +4,49 @@
     <div class="inner">
       <div class="theme-header">
         <p class="eyebrow">I. Lyrics &amp; Theme</p>
-        <h2>Confidence without cruelty</h2>
+        <h2>Enchantment as a quiet command</h2>
       </div>
       <div class="theme-layout">
         <div class="theme-essay">
           <p>
-            At its core, "REBEL HEART" is a song about self-possession — the
-            particular kind of strength that does not come from performance,
-            but from knowing yourself so completely that nothing external can
-            diminish you. The themes run deeper than a typical empowerment
-            anthem.
+            At its core, ACCENDIO is a meditation on image-making as ritual.
+            The song invites the listener into a palace of mirrors where each
+            reflection is carefully curated, and every gesture feels both
+            deliberate and inevitable.
           </p>
           <p>
-            There is resistance in it, yes — but not the kind that rages.
-            The song's emotional logic moves closer to something like stillness
-            under pressure. The protagonist is not fighting to prove herself.
-            She has already decided she does not need to. The confidence here
-            is not loud. It is settled.
+            The lyrics are less about an explosive statement and more about the
+            slow accrual of power. ACCENDIO is a spell cast in soft voices,
+            a beautiful incantation of control that feels cinematic rather than
+            aggressive.
           </p>
           <p>
-            Girlhood is present throughout, but treated with an unusual
-            gentleness. Rather than framing youth as something to grow out of,
-            "REBEL HEART" holds it as a source of power — the softness of
-            being young, still figuring things out, still choosing who to
-            become. That tenderness is not a weakness in the song.
-            It is the point.
+            Beauty here is not passive. It is a material force. The song treats
+            illusion as a way to sharpen identity, to make the self more visible
+            by hiding it behind glass and shadow. That tension between what is
+            shown and what is concealed is its most potent magic.
           </p>
           <p>
-            Underneath all of it sits a quiet ferocity. The kind of inner
-            strength that does not announce itself. The kind that simply
-            continues — past doubt, past expectation, past the need for
-            external validation. A rebel heart, in this reading, is not
-            someone who breaks things. It is someone who refuses to be broken.
+            There is stillness in ACCENDIO, but it is not surrender. It is the
+            stillness of a priestess before she releases a ritual, measured and
+            intense. The track is about becoming unshakable not through noise,
+            but through the confidence of a tightly composed image.
           </p>
         </div>
         <aside class="theme-aside">
           <blockquote class="pull-quote">
             <p>
-              Rebellion, here, is not a posture. It is a way of feeling at
-              home inside yourself.
+              ACCENDIO is an elegant illusion — a bright surface that only
+              reveals its depth when you look through it.
             </p>
           </blockquote>
           <div class="theme-tags">
-            <span>Confidence</span>
-            <span>Resistance</span>
-            <span>Softness</span>
-            <span>Girlhood</span>
-            <span>Self-possession</span>
-            <span>Inner strength</span>
+            <span>Enchantment</span>
+            <span>Illusion</span>
+            <span>Image-making</span>
+            <span>Control</span>
+            <span>Beauty</span>
+            <span>Dark fantasy</span>
           </div>
         </aside>
       </div>
@@ -62,42 +57,39 @@
   <section class="sound-section">
     <div class="inner">
       <p class="eyebrow">II. Sound &amp; Vision</p>
-      <h2>The mood of a quiet revolution</h2>
+      <h2>The mood of a reflected spell</h2>
       <p class="sound-lead">
-        "REBEL HEART" is a song that trusts silence. Where other K-pop records
-        fill every moment with energy, this one breathes.
+        ACCENDIO feels like a film score for a secret ceremony: lush, restrained,
+        and full of cinematic depth.
       </p>
       <div class="sound-columns">
         <div class="sound-col">
           <h4>Sound</h4>
           <p>
-            The production moves between cool restraint and sudden warmth — a
-            bed of electronics that never quite resolves into pure brightness.
-            The instrumentals hold a minor-key tension even in their most
-            soaring moments, which gives the song an emotional complexity that
-            lingers well after the final note.
+            The production uses warm, dark synth textures and a steady pulse
+            that feels less like a beat and more like the heartbeat of an
+            unseen presence. Moments of brightness are measured so they feel
+            deliberate rather than overwhelming.
           </p>
           <p>
-            IVE's vocal delivery here is notably more interior than their
-            earlier releases. The performances are less about projection, more
-            about presence. Each member sounds like she is speaking to someone
-            she trusts rather than performing for a crowd.
+            IVE's vocal layering is expertly arranged to create the impression
+            of multiple selves speaking in unison. Each line is weighted with
+            attention, giving the track a sense of ritual precision and depth.
           </p>
         </div>
         <div class="sound-col">
           <h4>Visual Identity</h4>
           <p>
-            The visual world of "REBEL HEART" borrows from an editorial
-            tradition closer to fashion photography than conventional K-pop:
-            muted palettes, geometric staging, and a restrained use of styling
-            that makes each member's presence feel considered rather than
-            decorated.
+            The visual world of ACCENDIO is black-brown and plum, punctuated
+            by moonlit gold. It feels editorial and supernatural at once,
+            with mirrored surfaces, soft-focus highlights, and a sense of
+            mystery that keeps the viewer searching.
           </p>
           <p>
-            Nothing here is accidental. The visual direction mirrors the
-            emotional logic of the song — deliberate, composed, and quietly
-            powerful. It is luxury dressed as understatement. It asks you to
-            look more carefully rather than harder.
+            Every frame is built around the idea of reflection — not only
+            literal mirrors, but the way the group looks back at itself.
+            The styling and staging make the image feel controlled, layered,
+            and purposefully unreal.
           </p>
         </div>
       </div>
@@ -108,45 +100,40 @@
   <section class="brand-section">
     <div class="inner">
       <p class="eyebrow brand-eyebrow">III. Cultural Reading</p>
-      <h2 class="brand-heading">Why IVE still feels premium</h2>
+      <h2 class="brand-heading">Why ACCENDIO feels like a new page</h2>
       <div class="brand-grid">
         <article class="brand-card">
-          <h4>The aspirational register</h4>
+          <h4>Luxury in restraint</h4>
           <p>
-            What IVE has built, across their discography, is an aspirational
-            register that most groups cannot sustain. Their image is not built
-            on relatability, but on a more elevated proposition: the idea that
-            excellence, elegance, and emotional control can all coexist in
-            the same person.
+            ACCENDIO proves that IVE can lean into an almost aristocratic
+            darkness without losing their polished identity. The choice to
+            make restraint feel sumptuous is part of what makes this era
+            feel distinct.
           </p>
         </article>
         <article class="brand-card">
-          <h4>Emotional distance as identity</h4>
+          <h4>Illusion as influence</h4>
           <p>
-            There is a deliberate coolness to IVE that has always felt
-            intentional — and "REBEL HEART" maintains it even while reaching
-            toward something more vulnerable. The result is a new emotional
-            dimension for the group without abandoning the distance that
-            defines them.
+            The track suggests that the group's visual order is itself a kind
+            of influence. The illusion of an immaculate, otherworldly world
+            becomes the audience's entry point, which is an intimate and
+            powerful form of branding.
           </p>
         </article>
         <article class="brand-card brand-card--accent">
-          <h4>Vulnerability as luxury</h4>
+          <h4>Beauty as authority</h4>
           <p>
-            The smartest brand move "REBEL HEART" makes is turning softness
-            into a premium value proposition. Vulnerability, here, does not
-            undercut IVE's image. It deepens it. They are not showing
-            weakness. They are showing range — and that restraint, that
-            control over what they reveal, is the most expensive thing of all.
+            ACCENDIO turns beauty into a strategic posture. It is not softness
+            for comfort's sake. It is a layer of authority that makes the
+            group feel more formidable, more refined, and more mysterious.
           </p>
         </article>
         <article class="brand-card">
-          <h4>Consistency as strategy</h4>
+          <h4>Consistency with evolution</h4>
           <p>
-            A strong brand does not need to reinvent itself at every turn.
-            IVE understands this deeply. Rather than chasing trends, each
-            release deepens the same recognisable world — giving audiences
-            something familiar to anchor to, and something new to discover.
+            IVE has always balanced polished pop with high-fashion editorial
+            references. ACCENDIO does not abandon that continuity; it deepens it
+            by leaning into a darker, more cinematic mood.
           </p>
         </article>
       </div>
@@ -157,26 +144,23 @@
   <section class="closing-section">
     <div class="inner closing-inner">
       <p class="eyebrow">IV. Closing Reflection</p>
-      <h2>What it means to stay soft</h2>
+      <h2>When the spell lands</h2>
       <div class="closing-body">
         <p>
-          I keep coming back to "REBEL HEART" not because it is my favourite
-          IVE song — I'm not sure it is — but because it feels like the one
-          that reveals the most. It is IVE choosing to be complicated. To be
-          soft and defiant at once. To be young and serious at once.
+          ACCENDIO is the kind of song that rewards patience. It does not
+          demand instant attachment. Instead, it offers a slow reveal, and
+          that is where its power lives.
         </p>
         <p>
-          There is something genuinely moving about that choice. The world is
-          not always kind to girls who want to be taken seriously, who hold
-          their feelings carefully, who build their identity with intention.
-          "REBEL HEART" makes that kind of girl feel seen — and gives her a
-          soundtrack that does not simplify her.
+          It feels like a careful act of image creation: polished, mysterious,
+          and quietly commanding. The group is not asking for sympathy or
+          agreement. They are asking to be seen in a different light.
         </p>
         <p>
-          I built this page as a Nuxt practice project. But the essay grew
-          because the song deserved it. IVE has made something that resists
-          easy reading — and I find that beautiful. A rebel heart, in the end,
-          is just someone who refuses to be less than they are.
+          This page is still a Nuxt practice project, but it was worth the
+          work because ACCENDIO is worth reflecting on. It is a song that
+          understands the value of control, illusion, and beauty — and that
+          combination feels like a genuine artistic statement.
         </p>
         <p class="closing-sign">— Adeleine Wang</p>
       </div>

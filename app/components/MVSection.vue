@@ -3,22 +3,23 @@
     <div class="inner video-inner">
       <div class="video-meta">
         <p class="eyebrow">Watch</p>
-        <h2 class="video-heading">REBEL HEART<br><em>Official M/V</em></h2>
+        <h2 class="video-heading">ACCENDIO<br><em>Official M/V</em></h2>
         <p class="video-desc">
-          Six members. One defiant heartbeat. Watch the official music video
-          and feel exactly what this essay is trying to describe.
+          A moonlit ritual of lacquered mirrors and precise movement. The
+          official music video is the visual key to the essay's darker,
+          cinematic reading.
         </p>
       </div>
       <div class="video-stage">
         <div class="video-frame">
           <iframe
-            src="https://www.youtube.com/embed/g36q0ZLvygQ"
-            title="IVE (아이브) 'REBEL HEART' Official MV"
+            src="https://www.youtube.com/embed/PGLx4V680J8"
+            title="IVE (아이브) 'ACCENDIO' Official MV"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             allowfullscreen
           />
         </div>
-        <p class="video-caption">IVE (아이브) &lsquo;REBEL HEART&rsquo; Official MV</p>
+        <p class="video-caption">IVE (아이브) ‘ACCENDIO’ Official MV</p>
       </div>
     </div>
   </section>
@@ -27,7 +28,7 @@
 <style scoped>
 .eyebrow {
   margin: 0 0 20px;
-  color: #c8906a;
+  color: #d8b88d;
   font-size: 12px;
   letter-spacing: 0.22em;
   text-transform: uppercase;
@@ -40,8 +41,8 @@
 
 .video-section {
   padding: 96px clamp(24px, 6vw, 80px) 112px;
-  background: #2a1a13;
-  border-top: 1px solid rgba(0, 0, 0, 0.18);
+  background: #12080f;
+  border-top: 1px solid rgba(255, 213, 165, 0.08);
 }
 
 .video-inner {
@@ -58,20 +59,20 @@
 
 .video-heading {
   margin: 12px 0 28px;
-  color: #f5e8de;
+  color: #f4e8d7;
   font-size: clamp(32px, 4vw, 52px);
   line-height: 1;
   letter-spacing: -0.05em;
 }
 
 .video-heading em {
-  color: #c8906a;
+  color: #d4a16e;
   font-style: italic;
 }
 
 .video-desc {
   margin: 0;
-  color: #b09080;
+  color: #c9b3a0;
   font-size: 17px;
   line-height: 1.8;
 }
@@ -85,9 +86,9 @@
 .video-frame {
   border-radius: 20px;
   overflow: hidden;
-  border: 1px solid rgba(200, 144, 106, 0.22);
+  border: 1px solid rgba(212, 161, 110, 0.22);
   box-shadow:
-    0 0 0 6px rgba(200, 144, 106, 0.06),
+    0 0 0 6px rgba(212, 161, 110, 0.06),
     0 40px 120px rgba(0, 0, 0, 0.5);
   aspect-ratio: 16 / 9;
 }
@@ -101,7 +102,7 @@
 
 .video-caption {
   margin: 0;
-  color: #6b4a38;
+  color: #a88a75;
   font-size: 12px;
   letter-spacing: 0.14em;
   text-transform: uppercase;
