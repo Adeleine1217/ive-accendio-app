@@ -1,5 +1,5 @@
 <script setup>
-const siteUrl = 'https://ive-accendio.vercel.app'
+'const siteUrl = 'https://ive-accendio-app.vercel.app'
 const ogImage = `${siteUrl}/og-accendio.png`
 const description =
   "A cultural review of IVE's ACCENDIO — exploring enchantment, illusion, and the cinematic architecture of a dark-fantasy K-pop moment."
