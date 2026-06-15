@@ -1,0 +1,58 @@
+
+> generate
+> nuxt generate
+
+┌  Building Nuxt for production...
+│
+●  Nuxt 4.4.8 (with Nitro 2.13.4, Vite 7.3.5 and Vue 3.5.38)
+│
+●  Nitro preset: static
+ℹ Building client...
+ℹ vite v7.3.5 building client environment for production...
+
+ WARN  [plugin nuxt:module-preload-polyfill] Sourcemap is likely to be incorrect: a plugin (nuxt:module-preload-polyfill) was used to transform files, but didn't generate a sourcemap for the transformation. Consult the plugin documentation for help
+
+ℹ transforming...
+ℹ ✓ 116 modules transformed.
+ℹ rendering chunks...
+ℹ computing gzip size...
+ℹ ../node_modules/.cache/nuxt/.nuxt/dist/client/manifest.json                   1.09 kB │ gzip:  0.30 kB
+ℹ ../node_modules/.cache/nuxt/.nuxt/dist/client/_nuxt/error-500.BW0Y54Of.css    1.91 kB │ gzip:  0.73 kB
+ℹ ../node_modules/.cache/nuxt/.nuxt/dist/client/_nuxt/error-404.C3kT2QX-.css    2.43 kB │ gzip:  0.86 kB
+ℹ ../node_modules/.cache/nuxt/.nuxt/dist/client/_nuxt/entry.qKME3VeJ.css        9.61 kB │ gzip:  2.32 kB
+ℹ ../node_modules/.cache/nuxt/.nuxt/dist/client/_nuxt/Dj5UKp5X.js               3.45 kB │ gzip:  1.55 kB
+ℹ ../node_modules/.cache/nuxt/.nuxt/dist/client/_nuxt/axMuakzb.js               9.81 kB │ gzip:  3.98 kB
+ℹ ../node_modules/.cache/nuxt/.nuxt/dist/client/_nuxt/NouvKGoP.js             144.85 kB │ gzip: 55.04 kB
+ℹ ✓ built in 704ms
+✔ Client built in 711ms
+ℹ Building server...
+ℹ vite v7.3.5 building ssr environment for production...
+ℹ transforming...
+ℹ ✓ 74 modules transformed.
+ℹ rendering chunks...
+ℹ ✓ built in 264ms
+✔ Server built in 267ms
+[nitro] ℹ Initializing prerenderer
+[nitro] ℹ Prerendering 3 initial routes with crawler
+[nitro]   ├─ /200.html (21ms)
+[nitro]   ├─ /404.html (21ms)
+[nitro]   ├─ / (23ms)
+  │ └── [500] Server Error
+[nitro] 
+Errors prerendering:
+[nitro]   ├─ / (23ms)
+  │ └── [500] Server Error
+[nitro] 
+
+ ERROR  Exiting due to prerender errors.
+
+    at prerender (node_modules/nitropack/dist/core/index.mjs:2191:11)
+    at async Array.<anonymous> (node_modules/@nuxt/nitro-server/dist/index.mjs:892:4)
+    at async build (node_modules/nuxt/dist/index.mjs:8598:3)
+    at async Object.run (node_modules/@nuxt/cli/dist/build-DWst0L5A.mjs:92:4)
+    at async Object.run (node_modules/@nuxt/cli/dist/generate-DJpMuzgA.mjs:25:3)
+    at async runCommand (node_modules/citty/dist/index.mjs:228:47)
+    at async runCommand (node_modules/citty/dist/index.mjs:217:5)
+    at async runMain (node_modules/citty/dist/index.mjs:394:10) 
+
+
