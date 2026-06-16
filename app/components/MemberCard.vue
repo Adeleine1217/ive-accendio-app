@@ -1,5 +1,6 @@
 <script setup>
 defineProps({
+  slug: String,
   symbol: String,
   korean: String,
   name: String,
@@ -9,13 +10,15 @@ defineProps({
 </script>
 
 <template>
-  <article class="member-card">
-    <div class="member-symbol">{{ symbol }}</div>
-    <p class="member-korean">{{ korean }}</p>
-    <h3>{{ name }}</h3>
-    <p class="member-title">{{ title }}</p>
-    <p class="member-line">{{ line }}</p>
-  </article>
+  <NuxtLink :to="`/members/${slug}`" class="member-link">
+    <article class="member-card">
+      <div class="member-symbol">{{ symbol }}</div>
+      <p class="member-korean">{{ korean }}</p>
+      <h3>{{ name }}</h3>
+      <p class="member-title">{{ title }}</p>
+      <p class="member-line">{{ line }}</p>
+    </article>
+  </NuxtLink>
 </template>
 
 <style scoped>

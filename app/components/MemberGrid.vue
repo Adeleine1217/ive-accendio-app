@@ -1,48 +1,5 @@
 <script setup>
-const members = [
-  {
-    name: 'Yujin',
-    korean: '안유진',
-    title: 'Leader Energy',
-    line: 'The composed centre of gravity — bright, athletic, and quietly commanding.',
-    symbol: '🐶'
-  },
-  {
-    name: 'Gaeul',
-    korean: '가을',
-    title: 'Autumn Elegance',
-    line: 'Calm, graceful, and precise — the kind of presence that does not need to chase attention.',
-    symbol: '🍂'
-  },
-  {
-    name: 'Rei',
-    korean: '레이',
-    title: 'Dreamy Rebel',
-    line: 'Soft-spoken but distinctive, with a playful coolness that makes every detail memorable.',
-    symbol: '🦋'
-  },
-  {
-    name: 'Wonyoung',
-    korean: '장원영',
-    title: 'Iconic Muse',
-    line: 'A polished star image with unbelievable control — elegant, aspirational, and instantly recognisable.',
-    symbol: '🪽'
-  },
-  {
-    name: 'Liz',
-    korean: '리즈',
-    title: 'Golden Voice',
-    line: 'Warm, emotional, and luminous — the voice that gives the song its soft inner glow.',
-    symbol: '🎙️'
-  },
-  {
-    name: 'Leeseo',
-    korean: '이서',
-    title: 'Youngest Spark',
-    line: 'Fresh, sharp, and fearless — the maknae energy that keeps IVE feeling alive and forward-looking.',
-    symbol: '✨'
-  }
-]
+import members from '../data/members'
 </script>
 
 <template>
@@ -59,7 +16,8 @@ const members = [
       <div class="members-grid">
         <MemberCard
           v-for="member in members"
-          :key="member.name"
+          :key="member.slug"
+          :slug="member.slug"
           :symbol="member.symbol"
           :korean="member.korean"
           :name="member.name"
